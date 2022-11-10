@@ -23,7 +23,7 @@ function runMatter() {
     MouseConstraint = Matter.MouseConstraint;
   Bodies = Matter.Bodies;
 
-  // en gine
+  // engine
   var engine = Engine.create(),
     world = engine.world;
 
